@@ -1,0 +1,24 @@
+:host {
+    position: absolute;
+    bottom: 50px;
+    left: 6px;
+    z-index: 1;
+    font-size: 0.90em;
+}
+
+#cordContainer>p {
+    margin: 0;
+}
+
+#coordContainer>p:first-child {
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+
+#scaleLine {
+    color: black;
+}
+
+#coordinatesLine {
+    color: blue;
+}
